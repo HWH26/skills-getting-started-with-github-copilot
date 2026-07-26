@@ -145,3 +145,4 @@ document.addEventListener("DOMContentLoaded", () => {
   fetchActivities();
 });
 // participant check retry
+// participant check after merge
